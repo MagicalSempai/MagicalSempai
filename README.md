@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MagicalSempai
-- 👀 I’m interested in ...Hacking
+- 👀 I’m interested in ...Ethical Hacking
 - 🌱 I’m currently learning ...Javascritp
 - 💞️ I’m looking to collaborate on ...whatever i need to
 - 📫 How to reach me ...talk on this website
